@@ -1,0 +1,18 @@
+Sample File for Python File Handling
+
+This file is created to demonstrate basic file handling operations in Python.
+It contains a title, a short paragraph, and a list of items.
+
+List of Items:
+- Apples
+- Bananas
+- Cherries
+- Dates
+- Elderberries
+
+- Watermelon
+- Mango
+- jackfruit
+- Watermelon
+- Mango
+- jackfruit

@@ -1,0 +1,10 @@
+{
+    "name": "Nikshit",
+    "age": 25,
+    "collage": "PDPU",
+    "subjects": [
+        "Maths",
+        "Phy",
+        "Chem"
+    ]
+}
